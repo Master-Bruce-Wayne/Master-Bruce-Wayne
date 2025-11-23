@@ -23,6 +23,6 @@
 
 <!-- Advanced: Contribution-snake SVG (if you generate it via the GitHub Action below) -->
 <!-- This file will be created/updated by the workflow and committed to your repo at /output/github-snake.svg -->
-<img alt="github-snake" src="https://raw.githubusercontent.com/Master-Bruce-Wayne/Master-Bruce-Wayne/master/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/Master-Bruce-Wayne/Master-Bruce-Wayne/main/output/github-snake.svg" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
