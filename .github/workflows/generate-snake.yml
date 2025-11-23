@@ -1,0 +1,41 @@
+name: Generate GitHub Contribution Snake
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  schedule:
+    - cron: '0 0 * * *'    # optional: daily at 00:00 UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install snk (Platane/snk)
+        run: |
+          npm install -g @platane/snk
+
+      - name: Generate snake SVG
+        run: |
+          mkdir -p output
+          # generate SVG for your username (Master-Bruce-Wayne)
+          snk --user Master-Bruce-Wayne --output ./output/github-snake.svg --theme dark
+
+      - name: Commit and push generated svg
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/github-snake.svg
+          git commit -m "chore: update github-snake.svg" || echo "no changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
