@@ -1,4 +1,13 @@
 # 💫 Hello World! :
+
+<!-- Header with animation -->
+<h1 align="center">Hi, I'm Sangam! 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Data+Analyst+%7C+Data+Science+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
+</p>
+
+---
+
 🔭I'm currently working on Full-Stack Projects<br>👯I'm looking to collaborate on WebD<br>🤝I'm looking for help with Machine Learning<br>💬Ask me about Development, Tech, and Games.<br>
 
 
@@ -23,6 +32,6 @@
 
 <!-- Advanced: Contribution-snake SVG (if you generate it via the GitHub Action below) -->
 <!-- This file will be created/updated by the workflow and committed to your repo at /output/github-snake.svg -->
-<img alt="github-snake" src="https://raw.githubusercontent.com/Master-Bruce-Wayne/Master-Bruce-Wayne/main/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/Master-Bruce-Wayne/Master-Bruce-Wayne/output/github-snake.svg" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
