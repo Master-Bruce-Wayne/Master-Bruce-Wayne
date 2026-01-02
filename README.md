@@ -1,9 +1,9 @@
 # 💫 Hello World! :
 
 <!-- Header with animation -->
-<h1 align="center">Hi, I'm Sangam! 👋</h1>
+<h1 align="center">Hi, I'm Sujal! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Data+Analyst+%7C+Data+Science+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=CP+-+Enthusiast;Full+Stack+Web+Developer;Data+Science+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </p>
 
 ---
