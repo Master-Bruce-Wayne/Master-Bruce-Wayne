@@ -1,6 +1,9 @@
 
 <!-- Header with animation -->
-<h1 align="center">Hi, I'm Sujal! 👋</h1>
+<h1 align="center">Hi👋, I'm Sujal Agarwal</h1>
+<h3 align="center">
+Competitive-Programmer | Full-Stack Developer | B.Tech Electronics & Communication Engineering @ NIT Durgapur
+</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=CP+-+Enthusiast;Full+Stack+Web+Developer;Data+Science+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </p>
