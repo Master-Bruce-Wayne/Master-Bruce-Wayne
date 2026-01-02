@@ -5,13 +5,21 @@
 Competitive-Programmer | Full-Stack Developer | B.Tech Electronics & Communication Engineering @ NIT Durgapur
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=CP+-+Enthusiast;Full+Stack+Web+Developer;Data+Science+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications+🚀;CP+-+Enthusiast;Full+Stack+Web+Developer;Data+Science+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </p>
 
 ---
 
-🔭I'm currently working on Full-Stack Projects<br>👯I'm looking to collaborate on WebD<br>🤝I'm looking for help with Machine Learning<br>💬Ask me about Development, Tech, and Games.<br>
+## 💫 About Me
 
+I’m a **competitve programmer by passion** and a Electronics Engineering undergraduate at **NIT Durgapur**, actively working at the intersection of **problem solving and full-stack development**.
+
+- 🧠 Solved more than **500+ problems** on various platforms 
+- ⚙️ Strong interest in **AI and Machine Learning**
+- 🧩 Active member of **RECursion - NIT Durgapur Programming Community** — problem solving, and building web applications.
+- 🎯 Focused on building systems with **real users, real constraints, and real impact**
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-agarwal-746357312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwalsujal79@gmail.com) 
