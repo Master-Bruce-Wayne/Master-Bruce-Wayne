@@ -1,4 +1,3 @@
-# 💫 Hello World! :
 
 <!-- Header with animation -->
 <h1 align="center">Hi, I'm Sujal! 👋</h1>
