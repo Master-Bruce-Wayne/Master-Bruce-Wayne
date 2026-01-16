@@ -34,12 +34,6 @@ I’m a **competitve programmer by passion** and a Electronics Engineering under
 
 ## 📈 GitHub — activity & contributions
 
-<!-- Quick: contribution calendar (static-ish) -->
-![Master-Bruce-Wayne's GitHub contributions](https://activity-graph.herokuapp.com/graph?username=Master-Bruce-Wayne&theme=react-dark&width=640&area=true)
-
-<!-- GitHub Readme Stats (languages, total stars, commits etc.) -->
-![Master-Bruce-Wayne GitHub stats](https://github-readme-stats.vercel.app/api?username=Master-Bruce-Wayne&show_icons=true&theme=tokyonight)
-
 <!-- Streak / Extra -->
 ![Master-Bruce-Wayne GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Master-Bruce-Wayne&theme=dark)
 
