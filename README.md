@@ -21,7 +21,7 @@ I’m a **competitve programmer by passion** and a Electronics Engineering under
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials & Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-agarwal-746357312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwalsujal79@gmail.com) 
 
 ---
