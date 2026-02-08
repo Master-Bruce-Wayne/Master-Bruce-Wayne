@@ -8,6 +8,9 @@ Competitive-Programmer | Full-Stack Developer | B.Tech Electronics & Communicati
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications+🚀;Competitive+Programmer;Full+Stack+Web+Developer;Data+Science+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif" width="250" height="250"/>
+</div>
 ---
 
 ## 💫 About Me
