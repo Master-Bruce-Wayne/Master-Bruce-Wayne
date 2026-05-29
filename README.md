@@ -11,6 +11,7 @@ Competitive-Programmer | Full-Stack Developer | B.Tech Electronics & Communicati
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif" width="250" height="250"/>
 </div>
+
 ---
 
 ## 💫 About Me
@@ -38,10 +39,4 @@ I’m a **competitve programmer by passion** and a Electronics Engineering under
 ## 📈 GitHub — activity & contributions
 
 <!-- Streak / Extra -->
-![Master-Bruce-Wayne GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Master-Bruce-Wayne&theme=dark)
-
-<!-- Advanced: Contribution-snake SVG (if you generate it via the GitHub Action below) -->
-<!-- This file will be created/updated by the workflow and committed to your repo at /output/github-snake.svg -->
-<img alt="github-snake" src="https://raw.githubusercontent.com/Master-Bruce-Wayne/Master-Bruce-Wayne/output/github-snake.svg" />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![CommitPulse](https://commitpulse.vercel.app/api/streak?user=master-bruce-wayne)
