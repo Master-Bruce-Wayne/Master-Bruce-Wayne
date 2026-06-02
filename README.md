@@ -36,7 +36,20 @@ I’m a **competitve programmer by passion** and a Electronics Engineering under
 ---
 <!-- GitHub contribution activity + snake (Quick + Advanced options below) -->
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=master-bruce-wayne&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=master-bruce-wayne&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=master-bruce-wayne&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 ## 📈 GitHub — activity & contributions
 
 <!-- Streak / Extra -->
 ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=master-bruce-wayne)
+
+[![](https://komarev.com/ghpvc/?username=master-bruce-wayne&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
