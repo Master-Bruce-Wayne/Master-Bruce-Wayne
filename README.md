@@ -50,6 +50,6 @@ I’m a **competitve programmer by passion** and a Electronics Engineering under
 <!-- Streak / Extra -->
 ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=master-bruce-wayne)
 
-[![](https://komarev.com/ghpvc/?username=master-bruce-wayne&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=master-bruce-wayne&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 
