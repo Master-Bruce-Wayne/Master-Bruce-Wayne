@@ -9,7 +9,7 @@ Competitive-Programmer | Full-Stack Developer | B.Tech Electronics & Communicati
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif" width="250" height="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif" height="450" />
 </div>
 
 ---
