@@ -47,8 +47,20 @@ I’m a **competitve programmer by passion** and a Electronics Engineering under
 
 ## 📈 GitHub — activity & contributions
 
+<div align="center"> 
+
 <!-- Streak / Extra -->
 ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=master-bruce-wayne)
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Master-Bruce-Wayne&bg_color=0a0f0a&color=10b981&line=059669&point=34d399&area=true&hide_border=false&border_color=059669)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 [![](https://komarev.com/ghpvc/?username=master-bruce-wayne&icon=0&color=blue)](https://visitcount.itsvg.in)
 
